@@ -26,4 +26,4 @@
 *.7z binary
 
 # Visual Studio usa UTF-8 con BOM por defecto
-*.cs working-tree-encoding=UTF-8-BOM
+*.cs working-tree-encoding=UTF-8
